@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_purchase_order_history,product_purchase_order_history,model_product_purchase_order_history,base.group_user,1,1,1,1
+access_product_purchase_history_line,product.purchase.history.line,model_product_purchase_history_line,base.group_user,1,1,1,1
+access_product_purchase_history_oline,product.purchase.history.oline,model_product_purchase_history_oline,base.group_user,1,1,1,1
